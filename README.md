@@ -88,7 +88,7 @@ See [`LICENSE`](LICENSE) for details.
 ## References
 
 - UCI Machine Learning Repository: [Dataset](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption)
-- [PyPSA documentation](https://pypsa.org/doc/)
+- [PyPSA documentation](https://docs.pypsa.org/latest/)
 - [Stable-Baselines3 documentation](https://stable-baselines3.readthedocs.io/)
 - [Gymnasium migration guide](https://gymnasium.farama.org/introduction/migration_guide/)
 
